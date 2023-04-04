@@ -1,0 +1,57 @@
+DiceDiceBaby Requirements
+
+Represent any number of n-sided Dice for 
+the purposes of simulating their use for gaming
+
+User Prompts:
+
+Add a Die (y/n)
+# of Sides on Die (int between 2 - 20)
+Add Another Die (y/n)
+
+Roll Die? (y/n) - Loop until "n"
+
+Outputs:
+
+Results of each Die's roll. (Die #n rolled X)
+Sum of value of all rolled dice (Total of all dice rolls: X)
+
+
+Sample Run:
+
+<<Program Begins>>
+Welcome to DiceDiceBaby
+You currently have 0 Dice to roll.
+Would you like to Add a Die (y/n)? y
+How many sided die? 6
+You have added a 6 sided die.
+You currently have 1 Die to roll.
+Would you like to Add a Die (y/n)? y
+How many sided die? 6
+You have added a 6 sided die.
+You currently have 2 Dice to roll.
+Would you like to Add a Die (y/n)? y
+How many sided die? 20
+You have added a 20 sided die.
+You currently have 3 Dice to roll.
+Would you like to Add a Die (y/n)? n
+
+You have 3 Dice.
+Roll Dice (y/n)? y
+Die 1 rolled 2
+Die 2 rolled 6
+Die 3 rolled 17
+Total of all dice rolls: 25
+
+You have 3 Dice.
+Roll Dice (y/n)? y
+Die 1 rolled 1
+Die 2 rolled 4
+Die 3 rolled 7
+Total of all dice rolls: 12
+
+You have 3 Dice.
+Roll Dice (y/n)? n
+
+Thank you for Playing!
+<<Program Terminates>>

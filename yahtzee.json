@@ -1,0 +1,26 @@
+{
+  "Label": "6 Sided Casino Dice",
+  "NumberOfDice": 5,
+  "DiceBag": [
+    {
+      "numSides": 6,
+      "SideValues": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "numSides": 6,
+      "SideValues": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "numSides": 6,
+      "SideValues": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "numSides": 6,
+      "SideValues": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "numSides": 6,
+      "SideValues": [1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+-- Bottom Up Design
+Die
+Dice
+-- Itterative Design
+
+
+
+Die is read only
+value - read only int
+roll - void method
+# of Sides -get /set
+
+
+
+Array = Fixed Size. 
+String[] myStringArray = new String[10];
+0...9
+
+List<T> = Variable Size.
+ 
+List<String> myStringList = new List<String>();
+
+
+ public ArrayList<Die> 
+
+ public Integer GetTotal()
+ public void RollAllDice()
+ public STring toString()

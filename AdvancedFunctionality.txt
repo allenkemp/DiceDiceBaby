@@ -1,0 +1,20 @@
+Advanced Functionality to add to our Program
+
+1) Ability to reroll 1 or all dice
+2) Dice Presets (two 6-sided dice (craps), five 6-sided dice (yahtzee), one 20-sided Die (DnD), loaded dice (biased towards high numbers))
+3) Print out Special cases
+   
+   Special Case Examples
+   (# of Dice /  (Condition)     (Message)
+    # of sides)    
+      2/6          1,1          Snake Eyes
+      2/6          6,6          Boxcars 
+      2/6          sum = 7      Craps
+      5/6        3 equal dice   3 of a kind
+      5/6        4 equal dice   4 of a kind
+      5/6        5 equal dice   YAHTZEE
+      5/6        4 sequential   Small Straight
+      5/6        5 sequential   Large Straight
+      5/6        3 eq & 2 eq    Full House
+      5/6        5 unique vals  Chance!
+      1/20       val = 20       Natural 20
